@@ -1,0 +1,17 @@
+3.1 Suponha que eu forneça uma pilha de chamada como esta:
+    SAUDA 2
+nome: Maggie
+    SAUDA
+nome: Maggie
+Quais informações você pode retirar baseando-se apenas nesta pilha
+de chamada?
+
+R: Podemos definir que a função sauda chamou sauda 2 com a variavel Meggie e, depois de executar a sauda 2 ela voltara a sauda
+
+3.2 Suponha que você acidentalmente escreva uma função recursiva
+que fique executando infinitamente. Como você viu, seu
+computador aloca memória na pilha para cada chamada de
+função. O que acontece com a pilha quando a função recursiva
+fica executando infinitamente?
+
+R: Ela é executada até ocupar toda a memoria do computador caso nao haja algum trava de recursividade

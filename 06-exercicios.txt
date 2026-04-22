@@ -1,0 +1,19 @@
+6.1 Encontre o menor caminho do início ao fim.
+
+R: O menor caminho tem tamanho 2
+
+6.2 Encontre o menor caminho de "jato" até "gado".
+
+R: O menor caminho tem tamanho 2
+
+6.3 Quanto a estas três listas, marque se elas são válidas ou inválidas.
+
+R: Rotina A e C são invalidas enquanto a rotina B é válida
+
+6.4 Aqui temos um grafo maior. Faça uma lista válida para ele.
+
+R: Acordar, praticar exercicio, tomar banho, trocar de roupa, escovar os dentes, tomar café da manha embrulhar o lanche
+
+6.5 Quais desses grafos também são árvores?
+
+R: A e C são arvores enquanto que B não é
